@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: gretting-service
+management:
+  endpoints:
+    jmx:
+      exposure:
+        include: "*"
+gretting-service:
+  gretting: "Hello"
+  default-value: "World"
+
