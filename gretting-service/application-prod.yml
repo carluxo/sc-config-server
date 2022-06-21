@@ -7,5 +7,5 @@ management:
       exposure:
         include: "*"
 gretting-service:
-  gretting: "Ciao"
+  gretting: "Pronto"
   default-value: "Mondo"
